@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_start_melody" id=",qHUZz=W8_poZ[t`nUZf" disabled="true" x="0" y="0"><field name="options">MelodyOptions.Once</field><value name="melody"><block type="device_builtin_melody" id="p4|E^El:g}K4wdtb+Z#x" disabled="true"><field name="melody">Melodies.Dadadadum</field></block></value></block></xml>
